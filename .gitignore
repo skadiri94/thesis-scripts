@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But include these files
+!.gitignore
+!eval_v3.py
+!load_json.py
+!rule_map_time_calc.py
+!zero_shot_mapper.py
+!multi_stage_mapper_v4.py
+!requirements.txt
